@@ -2,6 +2,7 @@
 # Total applications: 228
 # 8/22/2021 3:07 PM
 # Samsung SM-A315G Deleted applications
+# Tested Safety
 adb shell
 pm uninstall -k --user 0 com.samsung.aasaservice
 pm uninstall -k --user 0 com.sec.hearingadjust
