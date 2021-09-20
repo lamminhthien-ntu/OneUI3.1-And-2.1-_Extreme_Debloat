@@ -83,8 +83,6 @@ pm uninstall --user 0 com.samsung.android.knox.attestation
 
 pm uninstall --user 0 com.samsung.android.smartswitchassistant
 pm uninstall --user 0 com.samsung.android.wallpaper.res
-pm uninstall --user 0 com.samsung.android.wifi.resources
-pm uninstall --user 0 com.samsung.android.wifi.softap.resources
 pm uninstall --user 0 com.sec.bcservice
 pm uninstall --user 0 com.sec.enterprise.knox.attestation
 pm uninstall --user 0 com.sec.epdg
