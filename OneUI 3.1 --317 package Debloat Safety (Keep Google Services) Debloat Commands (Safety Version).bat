@@ -100,8 +100,6 @@ pm uninstall --user 0 com.google.android.feedback
 pm uninstall --user 0 com.google.android.gms.location.history
 pm uninstall --user 0 com.google.android.googlequicksearchbox
 pm uninstall --user 0 com.google.android.networkstack.permissionconfig
-pm uninstall --user 0 com.google.android.networkstack.tethering
-pm uninstall --user 0 com.google.android.networkstack.tethering.overlay
 pm uninstall --user 0 com.google.android.onetimeinitializer
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.common
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.gsa
