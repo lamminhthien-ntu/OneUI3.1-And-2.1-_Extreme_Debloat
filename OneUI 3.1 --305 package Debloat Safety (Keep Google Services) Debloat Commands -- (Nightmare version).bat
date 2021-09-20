@@ -250,7 +250,6 @@ pm uninstall --user 0 com.android.theme.color.space
 pm uninstall --user 0 com.android.theme.icon.squircle
 pm uninstall --user 0 com.sec.android.mimage.avatarstickers
 pm uninstall --user 0 com.samsung.android.stickercenter
-pm uninstall --user 0 com.google.mainline.telemetry
 pm uninstall --user 0 com.samsung.android.svcagent
 pm uninstall --user 0 com.samsung.android.samsungpassautofill
 pm uninstall --user 0 com.google.android.feedback
