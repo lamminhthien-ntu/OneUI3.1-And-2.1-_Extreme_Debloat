@@ -1,4 +1,4 @@
-#WAring delete these packages below will result to Problem in your phone
+#WAring delete these packages below will result to Problem in your phone (Samsung Android 11 Devices)
  com.android.carrierconfig (Break LTE,3G)
  com.android.provider.setting (Bootloop)
 com.android.wifi.resources (Bootloop)
