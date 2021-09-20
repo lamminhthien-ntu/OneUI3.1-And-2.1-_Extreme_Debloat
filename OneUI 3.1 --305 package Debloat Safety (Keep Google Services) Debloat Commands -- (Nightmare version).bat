@@ -108,7 +108,6 @@ pm uninstall --user 0 com.samsung.android.dynamiclock
 pm uninstall --user 0 com.android.bips
 pm uninstall --user 0 com.samsung.android.rubin.app
 pm uninstall --user 0 com.sec.mhs.smarttethering
-pm uninstall --user 0 com.samsung.crane
 pm uninstall --user 0 com.samsung.android.easysetup
 pm uninstall --user 0 com.google.android.syncadapters.contacts
 pm uninstall --user 0 com.google.android.syncadapters.calendar
