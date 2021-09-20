@@ -16,4 +16,6 @@ com.google.android.gsf (Break Google Service, Google App,...)
 com.google.android.modulemetadata (Break Google Play Store)
 com.android.storagemanager (Break Function to access Files,...)
 com.android.providers.telephony (Cause bootloop)
+com.google.android.networkstack (Appera on android 11, Like OSI, TCP/IP network, delete it will break wifi ).
+
 
