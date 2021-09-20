@@ -15,4 +15,5 @@ com.google.android.providers.media.module (Break function to access Media Files)
 com.google.android.gsf (Break Google Service, Google App,...)
 com.google.android.modulemetadata (Break Google Play Store)
 com.android.storagemanager (Break Function to access Files,...)
+com.android.providers.telephony (Cause bootloop)
 
