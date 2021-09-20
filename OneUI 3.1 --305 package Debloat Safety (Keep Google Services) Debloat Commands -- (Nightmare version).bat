@@ -70,7 +70,7 @@ pm uninstall --user 0 com.android.ons
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.wallpaperbackup
 pm uninstall --user 0 com.android.wallpapercropper
-pm uninstall --user 0 com.google.android.networkstack.tethering.overlay
+
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.common
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.photos
 pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastreceiver
@@ -80,7 +80,7 @@ pm uninstall --user 0 com.google.android.overlay.modules.modulemetadata.forframe
 pm uninstall --user 0 com.mediatek
 pm uninstall --user 0 com.mediatek.systemuiresoverlay
 pm uninstall --user 0 com.samsung.android.knox.attestation
-pm uninstall --user 0 com.samsung.android.networkstack.tethering.overlay
+
 pm uninstall --user 0 com.samsung.android.smartswitchassistant
 pm uninstall --user 0 com.samsung.android.wallpaper.res
 pm uninstall --user 0 com.samsung.android.wifi.resources
@@ -185,8 +185,6 @@ pm uninstall --user 0 com.android.mms.service
 pm uninstall --user 0 com.samsung.android.server.wifi.mobilewips
 pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
 pm uninstall --user 0 com.netflix.mediaclient
-pm uninstall --user 0 com.samsung.android.networkdiagnostic
-pm uninstall --user 0 com.samsung.android.networkstack
 pm uninstall --user 0 com.android.nfc
 pm uninstall --user 0 com.samsung.android.service.peoplestripe
 pm uninstall --user 0 com.samsung.android.app.taskedge
