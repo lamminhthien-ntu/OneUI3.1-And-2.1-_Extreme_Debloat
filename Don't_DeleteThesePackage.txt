@@ -1,6 +1,7 @@
-Don't delete com.android.carrierconfig (Break LTE,3G)
-don't delete com.android.provider.setting (Bootloop)
-Don't delete com.android.wifi.resources (Bootloop)
+#WAring delete these packages below will result to Problem in your phone
+ com.android.carrierconfig (Break LTE,3G)
+ com.android.provider.setting (Bootloop)
+com.android.wifi.resources (Bootloop)
 com.google.android.packageinstaller  (Bootloop)
 com.android.providers.settings (Bootloop)
 com.android.providers.calendar (Break Calendar)
@@ -13,3 +14,5 @@ com.android.location.fused (Break GPS Function)
 com.google.android.providers.media.module (Break function to access Media Files)
 com.google.android.gsf (Break Google Service, Google App,...)
 com.google.android.modulemetadata (Break Google Play Store)
+com.android.storagemanager (Break Function to access Files,...)
+
