@@ -207,7 +207,6 @@ pm uninstall --user 0 com.samsung.android.scloud
 pm uninstall --user 0 com.samsung.android.scs
 pm uninstall --user 0 com.samsung.android.sdk.handwriting
 pm uninstall --user 0 com.samsung.android.sdm.config
-pm uninstall --user 0 com.samsung.android.secsoundpicker
 pm uninstall --user 0 com.samsung.android.securitylogagent
 pm uninstall --user 0 com.samsung.android.server.wifi.mobilewips
 pm uninstall --user 0 com.samsung.android.service.peoplestripe
