@@ -315,3 +315,4 @@ pm uninstall --user 0 com.wsomacp
 pm uninstall --user 0 com.wssyncmldm
 pm uninstall --user 0 com.wssyncmldm
 pm disable-user --user 0 com.sec.android.sdhms
+pm uninstall --user 0 com.samsung.android.app.dressroom
