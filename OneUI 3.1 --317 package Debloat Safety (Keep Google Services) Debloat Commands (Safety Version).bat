@@ -1,5 +1,5 @@
 adb shell
-pm uninstall --user 0  android.auto_generated_rro_product__
+pm uninstall --user 0 android.auto_generated_rro_product__
 pm uninstall --user 0 android.auto_generated_rro_vendor__
 pm uninstall --user 0 android.autoinstalls.config.samsung
 pm uninstall --user 0 com.android.apps.tag
@@ -175,6 +175,7 @@ pm uninstall --user 0 com.samsung.android.easysetup
 pm uninstall --user 0 com.samsung.android.fmm
 pm uninstall --user 0 com.samsung.android.forest
 pm uninstall --user 0 com.samsung.android.game.gamehome
+pm uninstall --user 0 com.samsung.android.game.gametools
 pm uninstall --user 0 com.samsung.android.hdmapp
 pm uninstall --user 0 com.samsung.android.icecone
 pm uninstall --user 0 com.samsung.android.kidsinstaller
@@ -186,7 +187,6 @@ pm uninstall --user 0 com.samsung.android.knox.pushmanager
 pm uninstall --user 0 com.samsung.android.livestickers
 pm uninstall --user 0 com.samsung.android.localeoverlaymanager
 pm uninstall --user 0 com.samsung.android.location
-pm uninstall --user 0 com.samsung.android.lool
 pm uninstall --user 0 com.samsung.android.mapsagent
 pm uninstall --user 0 com.samsung.android.mateagent
 pm uninstall --user 0 com.samsung.android.mcfds
@@ -269,7 +269,6 @@ pm uninstall --user 0 com.sec.android.app.personalization
 pm uninstall --user 0 com.sec.android.app.quicktool
 pm uninstall --user 0 com.sec.android.app.ringtoneBR
 pm uninstall --user 0 com.sec.android.app.safetyassurance
-pm uninstall --user 0 com.sec.android.app.samsungapps
 pm uninstall --user 0 com.sec.android.app.SecSetupWizard
 pm uninstall --user 0 com.sec.android.app.servicemodeapp
 pm uninstall --user 0 com.sec.android.app.setupwizardlegalprovider
