@@ -109,6 +109,7 @@ pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastreceiver
 pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastservice
 pm uninstall --user 0 com.google.android.overlay.modules.ext.services
 pm uninstall --user 0 com.google.android.overlay.modules.modulemetadata.forframework
+pm uninstall --user 0 com.google.android.overlay.modules.permissioncontroller.forframework
 pm uninstall --user 0 com.google.android.partnersetup
 pm uninstall --user 0 com.google.android.printservice.recommendation
 pm uninstall --user 0 com.google.android.projection.gearhead
@@ -136,6 +137,7 @@ pm uninstall --user 0 com.samsung.android.accessibility.talkback
 pm uninstall --user 0 com.samsung.android.aircommandmanager
 pm uninstall --user 0 com.samsung.android.allshare.service.fileshare
 pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
+pm uninstall --user 0 com.samsung.android.app.aodservice
 pm uninstall --user 0 com.samsung.android.app.appsedge
 pm uninstall --user 0 com.samsung.android.app.clipboardedge
 pm uninstall --user 0 com.samsung.android.app.cocktailbarservice
@@ -187,6 +189,7 @@ pm uninstall --user 0 com.samsung.android.knox.pushmanager
 pm uninstall --user 0 com.samsung.android.livestickers
 pm uninstall --user 0 com.samsung.android.localeoverlaymanager
 pm uninstall --user 0 com.samsung.android.location
+pm uninstall --user 0 com.samsung.android.lool
 pm uninstall --user 0 com.samsung.android.mapsagent
 pm uninstall --user 0 com.samsung.android.mateagent
 pm uninstall --user 0 com.samsung.android.mcfds
