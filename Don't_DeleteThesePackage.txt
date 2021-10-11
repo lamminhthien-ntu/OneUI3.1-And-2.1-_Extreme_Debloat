@@ -20,3 +20,13 @@ com.google.android.networkstack (Appera on android 11, Like OSI, TCP/IP network,
 com.android.server.telecom (Unable to make call or recive call)
 com.google.android.networkstack.tethering (Break Network hotspot function)
 com.google.android.networkstack.tethering.overlay (Break Network hotspot function)
+com.samsung.android.app.telephonyui (Break telephone function)
+com.samsung.clipboardsaveservice (Break clipboard)
+com.samsung.android.biometrics.app.setting (Break biometrics)
+com.android.providers.telephony
+com.android.server.telecom
+com.android.phone
+com.samsung.android.provider.filterprovider (Break camera app)
+com.samsung.android.providers.media (Break media files access)
+
+
