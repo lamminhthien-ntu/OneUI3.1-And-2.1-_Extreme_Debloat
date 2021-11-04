@@ -31,3 +31,6 @@ com.samsung.android.providers.media (Break media files access)
 com.google.android.syncadapters.calendar  (Sync callendar note with google account)
  com.google.android.syncadapters.contacts (Sync Contacts with google account)
 pm uninstall --user 0 com.samsung.android.app.aodservice (Break clock on lock screeb)
+
+Bug on android 10:
+com.sec.imsservice (Delete will break wifi, mobile network, 4g)
